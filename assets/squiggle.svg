@@ -1,0 +1,23 @@
+<!-- /assets/squiggle.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 40" width="600" height="40" aria-hidden="true">
+  <path d="M10 20 C 25 5, 35 35, 50 20
+           S 75 5,  90 20
+           S 115 35,130 20
+           S 155 5, 170 20
+           S 195 35,210 20
+           S 235 5, 250 20
+           S 275 35,290 20
+           S 315 5, 330 20
+           S 355 35,370 20
+           S 395 5, 410 20
+           S 435 35,450 20
+           S 475 5, 490 20
+           S 515 35,530 20
+           S 555 5, 570 20"
+        fill="none"
+        stroke="#fc5b84"
+        stroke-width="6"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+</svg>
+

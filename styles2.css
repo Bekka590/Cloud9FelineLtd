@@ -1818,7 +1818,7 @@ button.shop:hover {
   overflow: visible;
 
   /* Background image (desktop/tablet) */
-  background-image: url("assets/jarline2.png");
+  background-image: url("assets/jarline.jpg");
   background-size: contain;              /* ⟵ EXPLICIT */
   background-position: center bottom;  /* ⟵ EXPLICIT */
   background-repeat: no-repeat;
@@ -1910,7 +1910,7 @@ button.shop:hover {
 /* Background swap for small screens (portrait) */
 @media (max-width:1080px){
   .shop-header--spotlight{
-    background-image: url("assets/jarlinemobileleft.png");
+    background-image: url("assets/jarlinemobileleft.jpg");
     padding: 20px 20px 0px 20px;      /* Top/Btm rhythm sized for hero */
     margin-top: 140px;
     background-size: cover;

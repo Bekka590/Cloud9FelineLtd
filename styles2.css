@@ -7661,7 +7661,7 @@ font-size: clamp(.95rem,1.7vw,1.4rem); }
     width: 29%;
   }
   .hero-stage .hc9-pillcap {
-    bottom: 45px;
+    bottom: 32px;
   }
 }
 /* =========================
@@ -7686,7 +7686,7 @@ font-size: clamp(.95rem,1.7vw,1.4rem); }
   /* Product: keep it in bottom-left, but bigger and more central */
   .hero-stage .hero-product{
     left: 3%;
-    bottom: 18%;
+    bottom: 12%;
     width: 28%;
   }
 
